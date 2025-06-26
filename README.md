@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">👋 Hi, I'm <span style="color:#36BCF7;">Mahder Tesfaye</span></h2>
+<h2 align="center">👋 Hi, I'm <font color="#36BCF7"><strong>Mahder Tesfaye</strong></font></h2>
 
 <p align="center">🌐 Fullstack Web Developer | 🤖 AI Engineer | 🧠 Deep Learning, NLP & Computer Vision Specialist</p>
 
@@ -16,10 +16,10 @@
 
 ### 🧭 About Me
 
-- 💡 I build **intelligent, real-world web apps** powered by AI
-- 🧠 Passionate about **Deep Learning**, **Natural Language Processing**, and **Computer Vision**
-- 🔬 Skilled in model training, fine-tuning, deployment, and scaling with cloud services
-- 🌍 I bridge the gap between **AI research and fullstack development**
+- 💡 I build **intelligent, real-world web apps** powered by AI  
+- 🧠 Passionate about **Deep Learning**, **Natural Language Processing**, and **Computer Vision**  
+- 🔬 Skilled in model training, fine-tuning, deployment, and scaling with cloud services  
+- 🌍 I bridge the gap between **AI research and fullstack development**  
 
 ---
 
@@ -60,19 +60,19 @@
 ### 🧠 My AI Focus Areas
 
 #### 🗣️ Natural Language Processing
-- Text classification, summarization, translation
-- Chatbots, question answering, embeddings
-- Transformer-based fine-tuning & custom APIs
+- Text classification, summarization, translation  
+- Chatbots, question answering, embeddings  
+- Transformer-based fine-tuning & custom APIs  
 
 #### 👁️ Computer Vision
-- Object detection, classification, segmentation
-- Real-time video processing & webcam apps
-- Model inference and deployment using RunPod, DigitalOcean, and SageMaker
+- Object detection, classification, segmentation  
+- Real-time video processing & webcam apps  
+- Model inference and deployment using RunPod, DigitalOcean, and SageMaker  
 
 #### 🔬 Deep Learning
-- Build models from scratch using CNNs, RNNs, Transformers
-- Train & optimize with TensorFlow/Keras
-- Deploy scalable models in production environments
+- Build models from scratch using CNNs, RNNs, Transformers  
+- Train & optimize with TensorFlow/Keras  
+- Deploy scalable models in production environments  
 
 ---
 
@@ -88,10 +88,10 @@
 
 ### 🎯 Current Goals
 
-- 🚀 Launch fullstack AI apps (NLP + CV)
-- ⚙️ Serve models via APIs using RunPod, SageMaker, and DigitalOcean
-- 📖 Stay sharp with latest research in AI/ML
-- 💬 Share knowledge & contribute to open-source projects
+- 🚀 Launch fullstack AI apps (NLP + CV)  
+- ⚙️ Serve models via APIs using RunPod, SageMaker, and DigitalOcean  
+- 📖 Stay sharp with latest research in AI/ML  
+- 💬 Share knowledge & contribute to open-source projects  
 
 ---
 
@@ -105,5 +105,3 @@
 ---
 
 > ✨ *"Code with purpose, learn with passion, grow with challenge."*
-
----
