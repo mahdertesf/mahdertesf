@@ -1,15 +1,3 @@
-<!-- 
-  Hello Mahder!
-  
-  To use this, create a new PUBLIC repository with the EXACT same name as your GitHub username.
-  For example, if your username is "Mahder-Tesfaye", your repository must be named "Mahder-Tesfaye".
-  
-  GitHub will automatically display this README on your main profile page.
-  
-  **IMPORTANT:**
-  - Replace `YOUR-GITHUB-USERNAME` in the stats links with your actual GitHub username.
--->
-
 <p align="center">
   <i>"Every challenge is an invitation to grow, and I'm always accepting."</i>
 </p>
@@ -71,9 +59,8 @@ A selection of technologies I'm proficient with:
 
 ### 📊 My GitHub Activity
 
-<!-- IMPORTANT: Replace `YOUR-GITHUB-USERNAME` with your actual username -->
-[![Mahder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdertesf&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdertesf&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
