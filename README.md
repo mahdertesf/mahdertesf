@@ -1,5 +1,7 @@
 <p align="center">
-  <i>"Every challenge is an invitation to grow, and I'm always accepting."</i>
+  <a href="https://github.com/mahdertesf">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7¢er=true&vCenter=true&width=500&lines=Every+challenge+is+an+invitation+to+grow,;and+I'm+always+accepting." alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">Hi there, I'm Mahder Tesfaye 👋</h1>
