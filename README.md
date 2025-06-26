@@ -1,81 +1,56 @@
 <p align="center">
   <a href="https://github.com/mahdertesf">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Every+challenge+is+an+invitation+to+grow.;I'm+always+ready+to+accept+and+explore." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Every+challenge+is+an+invitation+to+grow,;and+I'm+always+accepting+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
-</p>
-
-<h1 align="center">Hi there, I'm Mahder Tesfaye 👋</h1>
-<h3 align="center">A Full-Stack Developer & AI Engineer specializing in Natural Language Processing.</h3>
-
-I'm passionate about architecting intelligent systems and bridging the gap between complex machine learning models and intuitive user-facing applications. I thrive on transforming challenging problems into elegant, AI-powered web solutions.
-
----
-
-### 🚀 What I'm Currently Focused On
-
-* 🧠 **Training & Fine-Tuning Models:** Building deep learning models from the ground up and fine-tuning existing architectures for specific NLP tasks.  
-* 💻 **Full-Stack Integration:** Seamlessly integrating powerful AI/ML backends with responsive and dynamic front-ends using React and Django.  
-* 🛠️ **API-Driven Development:** Creating and consuming APIs to power intelligent features in web applications.
-
----
-
-### 🔧 My Tech Stack & Tools
-
-**Languages & Core Web:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**AI & Machine Learning:**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-30AADD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-**Frameworks & Libraries:**
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Development Tools:**
-<p>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
 </p>
 
 ---
 
-### 📊 My GitHub Activity
+### 👋 Hi, I'm Mahder Tesfaye
 
-[![Mahder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdertesf&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdertesf&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+🎓 **Fullstack Web Developer & AI Engineer**  
+🚀 I build intelligent, elegant, and impactful software  
+🧠 Passionate about **training ML models from scratch**, **fine-tuning**, and building **AI-powered web apps**  
 
 ---
 
-### 📫 Let's Connect!
+### 🧰 My Toolbox
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out!
+#### 💻 Languages  
+`Python` `JavaScript` `HTML` `CSS` `Java` `SQL`
 
-<p align="left">
-  <a href="https://linkedin.com/in/mahder-tesfaye-abebe-396095327" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/mahtesfayeabebe" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:mahdertesfaye11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+#### ⚙️ Frameworks & Libraries  
+`Django` `React` `TailwindCSS` `TensorFlow` `Keras` `NumPy` `Matplotlib` `NLTK` `Jupyter Notebook`
+
+#### 🛠️ Tools  
+`Git` `Postman` `Insomnia` `MySQL`
+
+---
+
+### 🤖 Specialization: Deep Learning & NLP  
+- Building **custom ML models** from the ground up  
+- **Natural Language Processing** workflows: tokenization, embedding, language modeling  
+- Deploying smart solutions through APIs and fullstack integrations
+
+---
+
+### 🌍 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahder%20Tesfaye-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahder-tesfaye-abebe-396095327/)  
+[![X](https://img.shields.io/badge/X-@mahtesfayeabebe-1DA1F2?style=flat&logo=twitter)](https://x.com/mahtesfayeabebe)  
+📫 **mahdertesfaye11@gmail.com**
+
+---
+
+### 📌 Current Goals  
+- 🎯 Launching fullstack AI-based apps  
+- 🧬 Training advanced NLP models  
+- 💡 Solving real-world problems with tech
+
+---
+
+### 🧭 Let's Build Something Meaningful  
+> "Code with purpose, learn with passion, grow with challenge."
+
+---
+
