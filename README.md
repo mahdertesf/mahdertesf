@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mahdertesf">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Every+challenge+is+an+invitation+to+grow,+and+I'm+always+accepting+🚀" alt="Quote Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Every+challenge+is+an+invitation+to+grow,;and+I'm+always+accepting+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </p>
 
