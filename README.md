@@ -1,27 +1,24 @@
+<!-- START OF README -->
+
 <p align="center">
-  <a href="https://github.com/mahdertesf">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7¢er=true&vCenter=true&width=500&lines=Every+challenge+is+an+invitation+to+grow,;and+I'm+always+accepting." alt="Typing SVG" />
-  </a>
+  <!-- 
+    ===================================================================
+    PASTE THE IMAGE LINK YOU COPIED FROM THE GITHUB ISSUE IN HERE
+    It should look like: ![image.png](https://...)
+    ===================================================================
+  -->
+
+  PASTE YOUR BANNER IMAGE CODE HERE
+
 </p>
 
 <h1 align="center">Hi there, I'm Mahder Tesfaye 👋</h1>
-<h3 align="center">A Full-Stack Developer & AI Engineer specializing in Natural Language Processing.</h3>
 
-I'm passionate about architecting intelligent systems and bridging the gap between complex machine learning models and intuitive user-facing applications. I thrive on transforming challenging problems into elegant, AI-powered web solutions.
-
----
-
-### 🚀 What I'm Currently Focused On
-
-*   🧠 **Training & Fine-Tuning Models:** Building deep learning models from the ground up and fine-tuning existing architectures for specific NLP tasks.
-*   💻 **Full-Stack Integration:** Seamlessly integrating powerful AI/ML backends with responsive and dynamic front-ends using React and Django.
-*   🛠️ **API-Driven Development:** Creating and consuming APIs to power intelligent features in web applications.
+I'm a Full-Stack Developer & AI Engineer passionate about architecting intelligent systems and bridging the gap between complex machine learning models and intuitive user-facing applications. I thrive on transforming challenging problems into elegant, AI-powered web solutions.
 
 ---
 
 ### 🔧 My Tech Stack & Tools
-
-A selection of technologies I'm proficient with:
 
 **Languages & Core Web:**
 <p>
