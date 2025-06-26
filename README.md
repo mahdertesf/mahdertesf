@@ -4,18 +4,15 @@
   <img src="https://img.shields.io/badge/Hi,_I'm-Mahder%20Tesfaye-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </h1>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Every+Challenge+is+an+Invitation+to+Grow!+%F0%9F%8C%9F" alt="Typing Quote Banner" />
+</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack_Web_Developer-🌐-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/AI_Engineer-🤖-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Lifelong_Learner-📚-orange?style=flat-square" />
 </p>
-
----
-
-### 🚀 *Every Challenge is an Invitation to Grow*
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Every+challenge+is+an+invitation+to+grow.;And+I'm+always+accepting+🌟;Always+learning+📚" alt="Typing Quote Banner" />
-</div>
 
 ---
 
@@ -25,8 +22,7 @@
 - 🌐 Creating **modern fullstack applications**  
 - 🧠 Passionate about **Deep Learning**, **NLP**, and **Computer Vision**  
 - 🛠️ Skilled in model training, fine-tuning, and scalable deployment  
-- 🌉 Bridging the gap between **AI research** and **product development**  
-- 🌍 Visit my portfolio: [mahder-tesfaye.netlify.app](https://mahder-tesfaye.netlify.app/)
+- 🌉 Bridging the gap between **AI research** and **product development**
 
 ---
 
@@ -68,7 +64,6 @@
   <a href="mailto:mahdertesfaye11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahder-tesfaye-abebe-396095327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/mahtesfayeabebe"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://mahder-tesfaye.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
 
 ---
