@@ -1,5 +1,3 @@
-<!-- GitHub Profile README for Mahder Tesfaye -->
-
 <h1 align="center">
   <img src="https://img.shields.io/badge/Hi,_I'm-Mahder%20Tesfaye-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </h1>
@@ -18,17 +16,17 @@
 
 ## 🧭 About Me
 
-- 💡 Building **real-world AI-powered web apps**  
-- 🌐 Creating **modern fullstack applications**  
-- 🧠 Passionate about **Deep Learning**, **NLP**, and **Computer Vision**  
-- 🛠️ Skilled in model training, fine-tuning, and scalable deployment  
-- 🌉 Bridging the gap between **AI research** and **product development**
+- 💡 Designing and deploying **real-world, AI-driven web solutions**  
+- 🌐 Crafting seamless and responsive **fullstack applications**  
+- 🧠 Enthusiastic about **Deep Learning**, **Natural Language Processing**, and **Computer Vision**  
+- 🛠️ Experienced in **model training, fine-tuning**, and **scalable ML deployment**  
+- 🌉 Passionate about connecting **cutting-edge AI research** with **practical product development**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
+### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
@@ -51,10 +49,9 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
-### ☁️ Cloud & Deployment  
+### ☁️ Cloud Platforms & Deployment  
 ![RunPod.io](https://img.shields.io/badge/-RunPod.io-05122A?style=flat&logo=cloudflare)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)
-
 
 ---
 
@@ -69,7 +66,7 @@
 ---
 
 <p align="center">
-  ✨ <i>"Code with purpose, learn with passion, grow with challenge."</i> ✨  
+  ✨ <i>"Code with purpose. Learn with passion. Build with clarity. Grow through challenges."</i> ✨  
 </p>
 
 ---
