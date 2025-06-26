@@ -4,11 +4,8 @@
   <img src="https://img.shields.io/badge/Hi,_I'm-Mahder%20Tesfaye-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </h1>
 
-<!-- Large Colorful Gradient Text -->
 <h2 align="center">
-  <span style="font-size: 40px; font-weight: bold; background: linear-gradient(90deg, #F97316, #36BCF7, #9333EA); -webkit-background-clip: text; color: transparent;">
-    🚀 Every Challenge is an Invitation to Grow!
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Every+Challenge+is+an+Invitation+to+Grow!+%F0%9F%8C%9F" alt="Typing Quote Banner" />
 </h2>
 
 <p align="center">
@@ -58,6 +55,7 @@
 ![RunPod.io](https://img.shields.io/badge/-RunPod.io-05122A?style=flat&logo=cloudflare)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)
 
+
 ---
 
 ## 📬 Let's Connect
@@ -70,16 +68,12 @@
 
 ---
 
-<!-- Stylized Quote -->
 <p align="center">
-  <span style="font-size: 20px; font-weight: bold; background-color: #facc15; padding: 8px 16px; border-radius: 12px; color: black;">
-    ✨ "Code with purpose, learn with passion, grow with challenge." ✨
-  </span>
+  ✨ <i>"Code with purpose, learn with passion, grow with challenge."</i> ✨  
 </p>
 
 ---
 
-<!-- Always Learning Badge Big & Colorful -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Always-Learning-📚-brightgreen?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Always-Learning-📚-orange?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
