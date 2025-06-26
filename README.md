@@ -18,6 +18,10 @@
   <a href="https://mahder-tesfaye.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
+  <br />
+  <a href="https://mahder-tesfaye.netlify.app/" style="font-size: 14px; color: #36BCF7;">
+    mahder-tesfaye.netlify.app
+  </a>
 </p>
 
 ---
