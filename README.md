@@ -30,7 +30,7 @@
 
 - 💡 Designing and deploying **real-world, AI-driven web solutions**  
 - 🌐 Crafting seamless and responsive **fullstack applications**  
-- 🧠 Enthusiastic about **Deep Learning**, **Natural Language Processing**, and **Computer Vision**  
+- 🧠 **Deep Learning**, **Natural Language Processing**, and **Computer Vision**  Expert 
 - 🛠️ Experienced in **model training, fine-tuning**, and **scalable ML deployment**  
 - 🌉 Passionate about connecting **cutting-edge AI research** with **practical product development**
 
